@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Script released!"}
+{"version":"1.5.0","news":"QB and ESX version of the script has been completely changed. Bugs have been fixed."}
