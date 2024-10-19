@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Script is released!"}
+{"version":"1.0.1","news":"Fixed a bug on config!"}
